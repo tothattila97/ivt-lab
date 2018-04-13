@@ -2,6 +2,8 @@
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
+ITT változtattam a README-n hogy kezdemenyezzem az uj Travis forditast
+
 The application is simplified and deliberately contains bugs.
 
 ## Getting started
