@@ -1,0 +1,38 @@
+[33mcommit ff35152b07c936655e921f948b03cae042dc5f5c[m
+Merge: 9f7fe15 c661e69
+Author: tothattila97 <toth.attila9704@gmail.com>
+Date:   Fri Apr 13 00:30:38 2018 -0700
+
+    Merge pull request #2 from tothattila97/implementationbranch
+    
+    Modified fire ALL Fix #1
+
+[33mcommit c661e6983b12a1ea0356aabedcb6cb5fb82ef029[m
+Author: Toth <toth.attila9704@gmail.com>
+Date:   Fri Apr 13 00:27:59 2018 -0700
+
+    Modified fire ALL
+
+[33mcommit 9f7fe1500603067170e81c695d4642aee03d609d[m
+Author: Toth <toth.attila9704@gmail.com>
+Date:   Thu Apr 12 23:57:06 2018 -0700
+
+    Modified README because of Travis
+
+[33mcommit a37f8a4ec77d2102b30c1fad8f7296391f56215b[m
+Author: Toth <toth.attila9704@gmail.com>
+Date:   Thu Apr 12 23:54:05 2018 -0700
+
+    Start Travis
+
+[33mcommit 8d02cf9ac7bfc043a07490d45f2f9c089464f79e[m
+Author: Toth <toth.attila9704@gmail.com>
+Date:   Thu Apr 12 23:45:02 2018 -0700
+
+    1st commit
+
+[33mcommit 9e4617e6418679bf73a34eee41910c5a2eb51419[m
+Author: tothattila97 <toth.attila9704@gmail.com>
+Date:   Thu Apr 12 23:25:32 2018 -0700
+
+    Initial commit
